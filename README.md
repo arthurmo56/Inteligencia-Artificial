@@ -21,10 +21,6 @@ Os tópicos abordados durante a disciplina incluem:
   - Métricas de avaliação de agrupamento  
 - **Mineração de Texto**  
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Redes+Neurais+e+Aprendizado+de+Máquina" alt="Imagem ilustrativa sobre inteligência artificial" width="80%">
-</div>
-
 ---
 
 ## ✍️ Atividades Práticas  
@@ -34,10 +30,6 @@ Os seguintes projetos e experimentos foram desenvolvidos ao longo da disciplina:
 - Implementação do algoritmo de agrupamento K-Means.  
 - Análise das métricas de agrupamento.  
 - Mineração de texto utilizando técnicas de pré-processamento e extração de padrões.  
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Clustering+e+Mineração+de+Texto" alt="Gráfico de agrupamento K-Means" width="80%">
-</div>
 
 ---
 
@@ -53,10 +45,6 @@ O **Deep Q-Learning (DQN)** é uma técnica baseada em aprendizado por reforço 
 2. Executa-se ações no ambiente e coleta-se experiências \( (s, a, r, s') \).  
 3. Treina-se a rede \( Q \) utilizando uma função de perda baseada no erro quadrático entre o valor atual e o esperado.  
 4. Atualiza-se periodicamente a rede alvo.  
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=DQN+-+Deep+Q-Learning" alt="Ilustração sobre DQN" width="80%">
-</div>
 
 ---
 
